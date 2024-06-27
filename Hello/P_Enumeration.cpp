@@ -22,8 +22,6 @@ int main()
     }
     else
         printf("[-] %u", GetLastError());
-
-    int* a=NULL;
-    scanf_s("a");
+    
     return 0;
 }
